@@ -1,4 +1,4 @@
-# ecommerce_app_design [project link](https://www.figma.com/proto/5oKKZW3HnoBwKTbulvueYk/ecommerce-app-design?page-id=1%3A2&node-id=1-3&p=f&viewport=-9%2C108%2C0.58&t=F3kMu5AOLxGWAEHc-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A3&show-proto-sidebar=1)
+# ecommerce_app_design [project link](https://www.figma.com/design/5oKKZW3HnoBwKTbulvueYk/ecommerce-app-design?node-id=1-2&t=otdN9QIS7epQvSum-1)
 
 USER FLOW 
 User taps the "Add to Cart" button to include the selected item in their shopping cart. 
